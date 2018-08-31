@@ -1,4 +1,4 @@
-# BelongsTo Field with Dependency
+# Nova Multiline Field
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/orlyapps/nova-multiline-text.svg?style=flat-square)](https://packagist.org/packages/Orlyapps/nova-multiline-text)
 [![Total Downloads](https://img.shields.io/packagist/dt/orlyapps/nova-multiline-text.svg?style=flat-square)](https://packagist.org/packages/Orlyapps/nova-multiline-text)
